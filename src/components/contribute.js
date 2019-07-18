@@ -10,9 +10,9 @@ function Contributor() {
             <div className="title">Contributor</div>
             <div className="sub-title">It's a open source project. Let's share your knowledge with the community</div>
             <div className="btn-01">
-                <Link to="/">
+                <a href ="https://github.com/Anant/awesome-cassandra">
                     <span>Share</span>
-                </Link>
+                </a>
             </div>
         </div>
     )

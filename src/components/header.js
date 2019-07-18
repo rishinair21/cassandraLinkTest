@@ -28,10 +28,7 @@ const Header = ({ siteTitle }) => (
                     </Nav>
                     <Nav>
                         <Nav>
-                            <Link to="/">Contribute</Link>
-                        </Nav>
-                        <Nav>
-                            <Link to="/">About Us</Link>
+                            <a href ="https://github.com/Anant/awesome-cassandra">Contribute</a>
                         </Nav>
                     </Nav>
                 </Navbar.Collapse>
